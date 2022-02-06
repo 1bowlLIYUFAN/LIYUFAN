@@ -6,18 +6,16 @@ permalink: about
 
 > Hello! Welcome to my page! 
 > 
-> I am a full-time Product Manager, a part-time Researcher :woman_student: , as well as an underground Artist.
+> I am a full-time Product Manager, a part-time Researcher, as well as an underground Artist.
 
 
 
 
--------------------     ----------------------------
-MyAddress                          email@example.com
 
-MyTown 1000                          @twitter_handle
 
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+| LIYUFAN | 李与凡 | Female | Beijing, China |
+
+| Master | yuvan_lee@163.com | 18811365529 |
 
 Education
 ---------
