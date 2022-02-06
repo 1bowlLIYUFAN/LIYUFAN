@@ -11,7 +11,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: LIYUFAN
-author-bio: Researcher / Artist / Advanced PM  # change to false to hide
+author-bio: Researcher / Artworker / Advanced PM  # change to false to hide
 author-image: liyufan.png  # file must be in the /assets/img/ folder
 
 # navigation menu
