@@ -11,7 +11,7 @@ theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
 author: LIYUFAN
-author-bio: Researcher / artist / Advanced Product Manager  # change to false to hide
+author-bio: Researcher / Artist / Advanced PM  # change to false to hide
 author-image: 279.png  # file must be in the /assets/img/ folder
 
 # navigation menu
@@ -33,7 +33,7 @@ github: https://github.com/1bowlLIYUFAN
 linkedin: https://www.linkedin.com/in/%E4%B8%8E%E5%87%A1-%E6%9D%8E-b7820317a/
 medium: false
 google-scholar: false
-email: yuvan_lee@163.com
+email: false
 
 # footer information
 footer-msg: "Powered by Tailpages"
