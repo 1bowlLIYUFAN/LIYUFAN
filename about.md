@@ -4,7 +4,6 @@ title: Resume | LIYUFAN
 permalink: about
 ---
 
-> Hello!   Welcome to my page! 
 
 ```
 full-time Product Manager
@@ -27,14 +26,15 @@ underground Artist
 `2018/09 - 2021/06`
 __Tongji University, Shanghai, China__
  - __Master of Engineering in Design, Artificial Intelligence and Data Design__
-   - GPA: 86.74/100, Supervisor: Fan Ling, co-Supervisor: Harry Jiannan Wang
+   - GPA: 86.74/100
+   - Supervisor: Fan Ling, co-Supervisor: Harry Jiannan Wang
    - Thesis Title: Research of Culture-inspired Intelligent Color Design System: A Chinese Youth Subculture Case
 
 ---
 `2019/09 - 2020/07`
 __Politecnico di Torino, Turin, Italy__
  -  __Systemic Design, Exchange Program__
-   - GPA: 28/30
+    - GPA: 28/30
 
 ---
 `2014/09 - 2018/06`
@@ -56,6 +56,7 @@ Associate, *French Academy of Science*, Paris, France
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+
 
 ### Journals
 
