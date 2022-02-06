@@ -25,18 +25,20 @@ underground Artist
 ## Education
 
 `2018/09 - 2021/06`
-__Tongji University, Shanghai__
+__Tongji University, Shanghai, China__
  - Master of Engineering in Design, Artificial Intelligence and Data Design
    - GPA: 86.74/100 | Supervisor: Fan Ling | co-Supervisor: Harry Jiannan Wang
    - Thesis Title: Research of Culture-inspired Intelligent Color Design System: A Chinese Youth Subculture Case
 
 `2019/09 - 2020/07`
 __Politecnico di Torino, Turin, Italy__
+ -  Systemic Design, Exchange Program
+   - GPA: 28/30
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
+`2014/09 - 2018/06`
+__Beijing Institute of Technology, Beijing, China__
+ - Bachelor of Engineering, Vehicle Engineering
+   - GPA: 89.09/100
 
 - Fellow
 
