@@ -6,7 +6,11 @@ permalink: about
 
 > Hello! Welcome to my page! 
 
-full-time Product Manager, part-time Researcher, underground Artist.
+```
+full-time Product Manager
+part-time Researcher
+underground Artist
+```
 
 
 
@@ -22,6 +26,9 @@ full-time Product Manager, part-time Researcher, underground Artist.
 
 `2018/09 - 2021/06`
 __Tongji University, Shanghai__
+ - Master of Engineering in Design, Artificial Intelligence and Data Design
+  - GPA: 86.74/100 | Supervisor:
+  - Thesis Title: 
 
 `June 1661 - now`
 __Trinity College, Cambridge__
