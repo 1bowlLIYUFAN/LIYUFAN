@@ -1,43 +1,43 @@
 # change the followings to match your Github username and repo name
-baseurl: "/tailpages" # the name of your github repo
-url: "https://harrywang.github.io" # the url of your github pages
+baseurl: "/LIYUFAN" # the name of your github repo
+url: "https://1bowlLIYUFAN.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Tailpages: Tailwind + Github Pages"
-description: A Github Pages (Jekyll) template based on TailwindCSS
+title: "LIYUFAN | 李与凡"
+description: Personal Page for LIYUFAN
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Satoshi Nakamoto
-author-bio: Creator of Bitcoin  # change to false to hide
+author: LIYUFAN
+author-bio: Researcher / artist / Advanced Product Manager  # change to false to hide
 author-image: 279.png  # file must be in the /assets/img/ folder
 
 # navigation menu
 show-nav-menu: true
 
 nav-menu:
-- text: About
+- text: CV
   permalink: about
-- text: Bitcoin
+- text: Programs
   permalink: bitcoin
 - text: Blog
   permalink: blog
 
 # use false to turn off any social media links
-twitter: https://twitter.com/
-facebook: https://facebook.com/
+twitter: false
+facebook: false
 instagram: https://instagram.com/
 github: https://github.com/
 linkedin: https://linkedin.com/
 medium: false
 google-scholar: false
-email: false
+email: yuvan_lee@163.com
 
 # footer information
 footer-msg: "Powered by Tailpages"
-footer-msg-link: https://github.com/harrywang/tailpages
+footer-msg-link: https://github.com1bowlLIYUFAN/LIYUFAN
 
 # google analytics
 google-analytics: G-WCRC1TC2V5
