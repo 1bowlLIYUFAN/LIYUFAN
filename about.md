@@ -12,10 +12,9 @@ permalink: about
 
 
 
-| LIYUFAN | 李与凡 | Female | Beijing, China |
-| ----- | ----- | ----- | ----- |
-| LIYUFAN | 李与凡 | Female | Beijing, China |
-| Master | yuvan_lee@163.com | 18811365529 |
+| LIYUFAN | 李与凡 | Female | Beijing, China | Master Degree |
+| :---:  | :---:  | :---:  | :---:  |
+|  | yuvan_lee@163.com | 18811365529 |
 
 Education
 ---------
@@ -101,3 +100,49 @@ Extra Section, Call it Whatever You Want
 * Random tidbit
 
 * Other sort of impressive-sounding thing you did
+
+
+Isaac Newton
+Physicist, Mathematician, Cambridge professor.
+
+isaac@applesdofall.org | My wikipedia page
+Currently
+Standing on the shoulders of giants
+
+Specialized in
+Laws of motion, gravitation, minting coins, disliking Robert Hooke
+
+Research interests
+Cooling, power series, optics, alchemy, planetary motions, apples.
+
+Education
+1654-1660 The King's School, Grantham.
+
+June 1661 - now Trinity College, Cambridge
+
+Sizar
+1667 - death Trinity College, Cambridge
+
+Fellow
+Awards
+2012 President, Royal Society, London, UK
+
+Associate, French Academy of Science, Paris, France
+
+Publications
+Journals
+1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.
+
+1669 Lectiones opticæ.
+
+etc. etc. etc.
+
+Patents
+2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001
+
+Occupation
+1600 Royal Mint, London
+
+Warden
+Minted coins
+1600 Lucasian professor of Mathematics, Cambridge University
