@@ -1,52 +1,27 @@
 ---
 layout: page
-title: CV | LIYUFAN
+title: Resume | LIYUFAN
 permalink: about
 ---
 
 > Hello! Welcome to my page! 
-> 
-> I am a full-time Product Manager, a part-time Researcher, as well as an underground Artist.
+
+full-time Product Manager, part-time Researcher, underground Artist.
 
 
 
 
 
-| LIYUFAN | 李与凡 | Female | Beijing, China | Master Degree |
-| :---:  | :---:  | :---:  | :---:  |
-|  | yuvan_lee@163.com | 18811365529 |
+ LIYUFAN | 李与凡 | Female | Beijing, China | Master Degree 
 
----
-layout: cv
-title: Isaac Newtons's CV
----
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+ email: yuvan_lee@163.com | phone: (+86)18811365529 
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2018/09 - 2021/06`
+__Tongji University, Shanghai__
 
 `June 1661 - now`
 __Trinity College, Cambridge__
