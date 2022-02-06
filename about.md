@@ -26,21 +26,21 @@ underground Artist
 
 `2018/09 - 2021/06`
 __Tongji University, Shanghai, China__
- - Master of Engineering in Design, Artificial Intelligence and Data Design
+ - __Master of Engineering in Design, Artificial Intelligence and Data Design__
    - GPA: 86.74/100 | Supervisor: Fan Ling | co-Supervisor: Harry Jiannan Wang
    - Thesis Title: Research of Culture-inspired Intelligent Color Design System: A Chinese Youth Subculture Case
 
+---
 `2019/09 - 2020/07`
 __Politecnico di Torino, Turin, Italy__
- -  Systemic Design, Exchange Program
+ -  __Systemic Design, Exchange Program__
    - GPA: 28/30
 
+---
 `2014/09 - 2018/06`
 __Beijing Institute of Technology, Beijing, China__
- - Bachelor of Engineering, Vehicle Engineering
+ - __Bachelor of Engineering, Vehicle Engineering__
    - GPA: 89.09/100
-
-- Fellow
 
 
 
