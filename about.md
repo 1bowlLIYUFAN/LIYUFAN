@@ -4,7 +4,7 @@ title: Resume | LIYUFAN
 permalink: about
 ---
 
-> Hello! Welcome to my page! 
+> Hello!   Welcome to my page! 
 
 ```
 full-time Product Manager
@@ -16,9 +16,9 @@ underground Artist
 
 
 
- LIYUFAN | 李与凡 | Female | Beijing, China | Master Degree 
+| LIYUFAN | 李与凡 | Female | Beijing, China | Master Degree |
 
- email: yuvan_lee@163.com | phone: (+86)18811365529 
+| email: yuvan_lee@163.com | phone: (+86)18811365529 |
 
 
 
@@ -27,11 +27,11 @@ underground Artist
 `2018/09 - 2021/06`
 __Tongji University, Shanghai__
  - Master of Engineering in Design, Artificial Intelligence and Data Design
-  - GPA: 86.74/100 | Supervisor:
-  - Thesis Title: 
+   - GPA: 86.74/100 | Supervisor: Fan Ling | co-Supervisor: Harry Jiannan Wang
+   - Thesis Title: Research of Culture-inspired Intelligent Color Design System: A Chinese Youth Subculture Case
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2019/09 - 2020/07`
+__Politecnico di Torino, Turin, Italy__
 
 - Sizar
 
