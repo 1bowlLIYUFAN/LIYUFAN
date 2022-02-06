@@ -27,7 +27,7 @@ underground Artist
 `2018/09 - 2021/06`
 __Tongji University, Shanghai, China__
  - __Master of Engineering in Design, Artificial Intelligence and Data Design__
-   - GPA: 86.74/100 | Supervisor: Fan Ling | co-Supervisor: Harry Jiannan Wang
+   - GPA: 86.74/100, Supervisor: Fan Ling, co-Supervisor: Harry Jiannan Wang
    - Thesis Title: Research of Culture-inspired Intelligent Color Design System: A Chinese Youth Subculture Case
 
 ---
