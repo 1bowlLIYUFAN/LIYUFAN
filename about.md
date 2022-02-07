@@ -7,22 +7,25 @@ permalink: about
 <!-- ![avatar](assets/img/liyufan.jpg) -->
 <div align=center><img src="assets/img/liyufan.jpg" width="39%"></div>
 
+<!-- 
 ```
  full-time Product Manager
  part-time Researcher
  underground Artist
-```
-<center> > 💾 full-time Product Manager </center>
+``` -->
+
+> 💾 full-time Product Manager 💾 
 >
-<center> > 📖 part-time Researcher </center>
+> 📖   part-time Researcher    📖
 >
-<center> > 🎨 underground Artist </center>
+> 🎨    underground Artist     🎨
 
 
 
 
-| __Female__ | __Beijing, China__ | 
+
 | __Master of Engineering in Design, AI & Data Design__ | __Tongji University__ |
+| __Female__ | __Beijing, China__ | 
 | __E-mail:__ yuvan_lee@163.com | __Phone:__ (+86)18811365529 |
 
 
