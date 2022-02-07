@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume | LIYUFAN
+title: Resume | LIYUFAN ｜ 李与凡
 permalink: about
 ---
 
@@ -16,8 +16,8 @@ underground Artist
 
 
 | LIYUFAN | 李与凡 | Female | Beijing, China | Master Degree |
-
-| email: yuvan_lee@163.com | phone: (+86)18811365529 |
+| --- | --- | --- | --- | --- |
+| email: yuvan_lee@163.com | phone: (+86)18811365529 |   ｜
 
 
 
