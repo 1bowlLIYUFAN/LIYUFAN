@@ -12,11 +12,11 @@ permalink: about
  part-time Researcher
  underground Artist
 ```
-> 💾 full-time Product Manager
+<center> > 💾 full-time Product Manager </center>
 >
-> 📖 part-time Researcher
+<center> > 📖 part-time Researcher </center>
 >
-> 🎨 underground Artist
+<center> > 🎨 underground Artist </center>
 
 
 
