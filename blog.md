@@ -4,6 +4,10 @@ title: Blog
 permalink: blog
 ---
 
+![avatar](assets/img/under-construction.jpeg) 
+
+
+<!-- 
 <div>
   {% for post in site.posts %}
     <div class="py-1">
@@ -12,5 +16,5 @@ permalink: blog
     </div>
   {% endfor %}
 </div>
-
+ -->
 
