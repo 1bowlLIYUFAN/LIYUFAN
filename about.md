@@ -113,13 +113,13 @@ __"Worries Overloaded"__, Group Exhibition, "On-Off" residence Exhibition, fRUIT
 
 ## Awards
 
-`2016` 年度工信创新创业奖学金, Awarded as a team member.
+`2016` 年度工信创新创业奖学金, Awarded as a team member
 
-`2016` Formula Student China, Group First prize.
+`2016` Formula Student China, Group First prize
 
-`2015` Advanced Modeling and Product Design Contest of China, Individual First Prize & Group First prize.
+`2015` Advanced Modeling and Product Design Contest of China, Individual First Prize & Group First prize
 
-`2015` Undergraduate Engineering Design Expression Contest of Beijing, Individual First Prize.
+`2015` Undergraduate Engineering Design Expression Contest of Beijing, Individual First Prize
 
 `2014 - 2018` Awarded Several First-class Scholarships of BIT
 
