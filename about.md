@@ -15,8 +15,8 @@ underground Artist
 
 
 
-| LIYUFAN | 李与凡 | Female | Beijing, China | Master Degree |
-| --- | --- | --- | --- | --- |
+| Female | Beijing, China | Master Degree |
+| --- | --- | --- |
 | email: yuvan_lee@163.com | phone: (+86)18811365529 |   ｜
 
 
