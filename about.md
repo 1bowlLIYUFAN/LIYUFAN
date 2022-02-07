@@ -111,7 +111,14 @@ __"Deviant Colors"__, Solo Exhibition, fRUITYSPACE, Beijing
 
 ## Awards
 
-`2021`
+`2016` 年度工信创新创业奖学金, Awarded as a team member.
+
+`2016` Formula Student China, Group First prize.
+
+`2015` Advanced Modeling and Product Design Contest of China, Individual First Prize & Group First prize.
+
+`2015` Undergraduate Engineering Design Expression Contest of Beijing, Individual First Prize.
+
 
 
 Associate, *French Academy of Science*, Paris, France
