@@ -34,21 +34,20 @@ permalink: about
 `2018/09 - 2021/06`
 __Tongji University, Shanghai, China__
  - __Master of Engineering in Design, Artificial Intelligence and Data Design__
-   - GPA: 86.74/100
-   - Supervisor: __Ling Fan__, co-Supervisor: __Harry Jiannan Wang__
-   - Thesis Title: Research of Culture-inspired Intelligent Color Design System: A Chinese Youth Subculture Case
+   - __GPA:__ 86.74/100
+   - __Supervisor:__ Ling Fan, __co-Supervisor:__ Harry Jiannan Wang
+   - __Thesis Title:__ Research of Culture-inspired Intelligent Color Design System: A Chinese Youth Subculture Case
 
 ---
 `2019/09 - 2020/07`
 __Politecnico di Torino, Turin, Italy__
  -  __Systemic Design, Exchange Program__
-    - GPA: 28/30
 
 ---
 `2014/09 - 2018/06`
 __Beijing Institute of Technology, Beijing, China__
  - __Bachelor of Engineering, Vehicle Engineering__
-   - GPA: 89.09/100
+   - __GPA:__ 89.09/100 (top 10%)
 
 
 
