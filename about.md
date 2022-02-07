@@ -88,6 +88,37 @@ __Master Dgree Thesis__   受文化启发的智能色彩设计系统与原型开
 __as Academic Contributor__ 范凌. 从无限运算力到无限想象力: 设计人工智能概览[M/OL]. 同济大学出版社, 2019.
 
 
+## Research Experience
+`2018 - now`
+[Design A.I. Lab](https://www.sheji.ai/), Design and Innovation College, Tongji University, 
+
+as Researcher
+
+`2021`
+[The 3rd IEEE Workshop on Artificial Intelligence for Art Creation](https://aiart2021.github.io/), Jointly with MIPR 2021
+
+as Paper Presenter
+
+
+`2015 - 2017`
+Formula Racing Team of BIT, Beijing Institute of Technology 
+
+as Engineering
+
+`2016`
+Formula Student China 2016 & Formula Student Electric China 2016
+
+as Participant & Cost Control Presenter
+
+
+## Art Exhibition
+
+`2021`
+
+
+Associate, *French Academy of Science*, Paris, France
+
+
 ## Awards
 
 `2021`
