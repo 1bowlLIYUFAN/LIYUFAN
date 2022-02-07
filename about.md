@@ -36,7 +36,6 @@ __Tongji University, Shanghai, China__
  - __Master of Engineering in Design, Artificial Intelligence and Data Design__
    - __GPA:__ 86.74/100
    - __Supervisor:__ Ling Fan, __co-Supervisor:__ Harry Jiannan Wang
-   - __Thesis Title:__ Research of Culture-inspired Intelligent Color Design System: A Chinese Youth Subculture Case
 
 <!-- --- -->
 `2019/09 - 2020/07`
@@ -57,12 +56,12 @@ __Beijing Institute of Technology, Beijing, China__
 ### Papers
 `2021`
 __Li, Yufan__ & Zhuo, Jinggang & Fan, Ling & Wang, Harry.  "Culture-inspired Multi-modal Color Palette Generation and Colorization: A Chinese Youth Subculture Case," in 2021 IEEE 4th International Conference on Multimedia Information Processing and Retrieval (MIPR), Tokyo, Japan, 2021 pp. 382-385. doi: 10.1109/MIPR51284.2021.00071
-- __Links:__ [Paper](https://doi.ieeecomputersociety.org/10.1109/MIPR51284.2021.00071) ｜ [Code & Introduction](https://github.com/tezignlab/subculture-colorization) ｜ [Video](https://youtu.be/fLPwr-oX0ds) ｜ [Demo](https://www.subverse.site/)
+__Links:__ [Paper](https://doi.ieeecomputersociety.org/10.1109/MIPR51284.2021.00071) ｜ [Code & Introduction](https://github.com/tezignlab/subculture-colorization) ｜ [Video](https://youtu.be/fLPwr-oX0ds) ｜ [Demo](https://www.subverse.site/)
 
 
 `2021`
 __Li, Yufan__ & Zhuo, Jinggang & Fan, Ling & Wang, Zhe & Wang, Harry. "Semantically Enriched Music Visualization via Multimodal Color Generation," in NIME 2021. 
-- __Links:__ [Paper](https://doi.org/10.21428/92fbeb44.2fb614f7) ｜ [Code](https://github.com/tezignlab/subculture-colorization/tree/main/music-visualization) ｜[Video](https://www.bilibili.com/video/BV1Cp4y1H7To/) 
+__Links:__ [Paper](https://doi.org/10.21428/92fbeb44.2fb614f7) ｜ [Code](https://github.com/tezignlab/subculture-colorization/tree/main/music-visualization) ｜[Video](https://www.bilibili.com/video/BV1Cp4y1H7To/) 
 
 
 `2021`
