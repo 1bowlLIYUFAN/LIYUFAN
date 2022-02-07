@@ -12,7 +12,9 @@ full-time Product Manager
 part-time Researcher
 underground Artist
 ```
-
+💾 full-time Product Manager
+📖 part-time Researcher
+🎨 underground Artist
 
 
 
@@ -21,7 +23,6 @@ underground Artist
 
 | __E-mail:__ yuvan_lee@163.com | __Phone:__ (+86)18811365529 |
 
-👍
 
 ## Education
 
