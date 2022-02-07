@@ -126,11 +126,11 @@ __"Deviant Colors"__, Solo Exhibition, fRUITYSPACE, Beijing
 ## Occupation
 
 `2021/08 - now`
-__Advanced Product Manager__, Pingan Technology Company, Beijing.
+Advanced Product Manager, Pingan Technology Company, Beijing.
 
 
 `2019/02 - 2019/06`
-__Product Assistant__, Tezign Technology Company, Shanghai
+Product Assistant, Tezign Technology Company, Shanghai
 
 
 
