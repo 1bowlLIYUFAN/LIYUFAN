@@ -59,7 +59,7 @@ __Beijing Institute of Technology, Beijing, China__
 Li, Yufan & Zhuo, Jinggang & Fan, Ling & Wang, Harry.  "Culture-inspired Multi-modal Color Palette Generation and Colorization: A Chinese Youth Subculture Case," in 2021 IEEE 4th International Conference on Multimedia Information Processing and Retrieval (MIPR), Tokyo, Japan, 2021 pp. 382-385. 
 - doi: 10.1109/MIPR51284.2021.00071
 - url: https://doi.ieeecomputersociety.org/10.1109/MIPR51284.2021.00071
-- Github & Introduction: https://github.com/tezignlab/subculture-colorization
+- Code & Introduction: https://github.com/tezignlab/subculture-colorization
 - Demo(color generation by semantic ): https://www.subverse.site/
 - Video:
 
@@ -67,6 +67,7 @@ Li, Yufan & Zhuo, Jinggang & Fan, Ling & Wang, Harry.  "Culture-inspired Multi-m
 Li, Yufan & Zhuo, Jinggang & Fan, Ling & Wang, Zhe & Wang, Harry. "Semantically Enriched Music Visualization via Multimodal Color Generation," in NIME 2021. 
 - url: https://doi.org/10.21428/92fbeb44.2fb614f7
 - Video: https://www.bilibili.com/video/BV1Cp4y1H7To/
+- Code: https://github.com/tezignlab/subculture-colorization/tree/main/music-visualization
 
 `2021`
 Lectiones opticæ.
