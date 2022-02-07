@@ -57,12 +57,12 @@ __Beijing Institute of Technology, Beijing, China__
 ### Papers
 `2021`
 __Li, Yufan__ & Zhuo, Jinggang & Fan, Ling & Wang, Harry.  "Culture-inspired Multi-modal Color Palette Generation and Colorization: A Chinese Youth Subculture Case," in 2021 IEEE 4th International Conference on Multimedia Information Processing and Retrieval (MIPR), Tokyo, Japan, 2021 pp. 382-385. doi: 10.1109/MIPR51284.2021.00071
-- __Links:__ [paper](https://doi.ieeecomputersociety.org/10.1109/MIPR51284.2021.00071) ｜ [Code & Introduction](https://github.com/tezignlab/subculture-colorization) ｜ [Video](https://youtu.be/fLPwr-oX0ds) ｜ [Demo](https://www.subverse.site/)
+- __Links:__ [Paper](https://doi.ieeecomputersociety.org/10.1109/MIPR51284.2021.00071) ｜ [Code & Introduction](https://github.com/tezignlab/subculture-colorization) ｜ [Video](https://youtu.be/fLPwr-oX0ds) ｜ [Demo](https://www.subverse.site/)
 
 
 `2021`
 __Li, Yufan__ & Zhuo, Jinggang & Fan, Ling & Wang, Zhe & Wang, Harry. "Semantically Enriched Music Visualization via Multimodal Color Generation," in NIME 2021. 
-- __Links:__ [paper](https://doi.org/10.21428/92fbeb44.2fb614f7) ｜ [Code](https://github.com/tezignlab/subculture-colorization/tree/main/music-visualization) ｜[Video](https://www.bilibili.com/video/BV1Cp4y1H7To/) 
+- __Links:__ [Paper](https://doi.org/10.21428/92fbeb44.2fb614f7) ｜ [Code](https://github.com/tezignlab/subculture-colorization/tree/main/music-visualization) ｜[Video](https://www.bilibili.com/video/BV1Cp4y1H7To/) 
 
 
 `2021`
@@ -73,12 +73,14 @@ __Master Dgree Thesis__   受文化启发的智能色彩设计系统与原型开
 
 `2021`
 一种基于多模态内容编码的图像着色方法，公开(公告)号：CN113888660A，状态：审中-实审
-发明人：范凌，王建楠，李与凡，卓京港，申请人：同济大学
+
+发明人：范凌，王建楠，__李与凡__，卓京港，申请人：同济大学
 
 
 `2021`
 一种基于音乐语义的音乐色彩可视化方法，公开(公告)号：CN113920971A，状态：审中-实审
-发明人：范凌，王建楠，李与凡，卓京港，申请人：同济大学
+
+发明人：范凌，王建楠，__李与凡__，卓京港，申请人：同济大学
 
 ---
 ### Book
