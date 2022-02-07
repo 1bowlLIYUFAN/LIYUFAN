@@ -38,12 +38,12 @@ __Tongji University, Shanghai, China__
    - __Supervisor:__ Ling Fan, __co-Supervisor:__ Harry Jiannan Wang
    - __Thesis Title:__ Research of Culture-inspired Intelligent Color Design System: A Chinese Youth Subculture Case
 
----
+<!-- --- -->
 `2019/09 - 2020/07`
 __Politecnico di Torino, Turin, Italy__
  -  __Systemic Design, Exchange Program__
 
----
+<!-- --- -->
 `2014/09 - 2018/06`
 __Beijing Institute of Technology, Beijing, China__
  - __Bachelor of Engineering, Vehicle Engineering__
@@ -68,21 +68,17 @@ __Li, Yufan__ & Zhuo, Jinggang & Fan, Ling & Wang, Zhe & Wang, Harry. "Semantica
 `2021`
 __Master Dgree Thesis__   受文化启发的智能色彩设计系统与原型开发————以中国青年亚文化为例 J063/LC213，in 2021， 同济大学图书馆藏
 
----
+<!-- --- -->
 ### Patents
 
 `2021`
-一种基于多模态内容编码的图像着色方法，公开(公告)号：CN113888660A，状态：审中-实审
-
-发明人：范凌，王建楠，__李与凡__，卓京港，申请人：同济大学
+一种基于多模态内容编码的图像着色方法，公开(公告)号：CN113888660A，状态：审中-实审, 发明人：范凌，王建楠，__李与凡__，卓京港，申请人：同济大学
 
 
 `2021`
-一种基于音乐语义的音乐色彩可视化方法，公开(公告)号：CN113920971A，状态：审中-实审
+一种基于音乐语义的音乐色彩可视化方法，公开(公告)号：CN113920971A，状态：审中-实审, 发明人：范凌，王建楠，__李与凡__，卓京港，申请人：同济大学
 
-发明人：范凌，王建楠，__李与凡__，卓京港，申请人：同济大学
-
----
+<!-- --- -->
 ### Book
 `2019`
 __as Academic Contributor__ 范凌. 从无限运算力到无限想象力: 设计人工智能概览[M/OL]. 同济大学出版社, 2019.
@@ -90,33 +86,25 @@ __as Academic Contributor__ 范凌. 从无限运算力到无限想象力: 设计
 
 ## Research Experience
 `2018 - now`
-[Design A.I. Lab](https://www.sheji.ai/), Design and Innovation College, Tongji University, 
+__as Researcher:__ [Design A.I. Lab](https://www.sheji.ai/), Design and Innovation College, Tongji University, 
 
-as Researcher
 
 `2021`
-[The 3rd IEEE Workshop on Artificial Intelligence for Art Creation](https://aiart2021.github.io/), Jointly with MIPR 2021
-
-as Paper Presenter
+__as Paper Presenter:__ [The 3rd IEEE Workshop on Artificial Intelligence for Art Creation](https://aiart2021.github.io/), Jointly with MIPR 2021
 
 
 `2015 - 2017`
-Formula Racing Team of BIT, Beijing Institute of Technology 
+__as Engineering:__ Formula Racing Team of BIT, Beijing Institute of Technology 
 
-as Engineering
 
 `2016`
-Formula Student China 2016 & Formula Student Electric China 2016
-
-as Participant & Cost Control Presenter
+__as Participant & Cost Control Presenter:__ Formula Student China 2016 & Formula Student Electric China 2016
 
 
 ## Art Exhibition
 
 `2021`
 
-
-Associate, *French Academy of Science*, Paris, France
 
 
 ## Awards
