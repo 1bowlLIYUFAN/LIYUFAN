@@ -119,20 +119,18 @@ __"Deviant Colors"__, Solo Exhibition, fRUITYSPACE, Beijing
 
 `2015` Undergraduate Engineering Design Expression Contest of Beijing, Individual First Prize.
 
-`2014-2018` Awarded Several First-class Scholarship of BIT
+`2014 - 2018` Awarded Several First-class Scholarships of BIT
 
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2021/08 - now`
+__Advanced Product Manager__, Pingan Technology Company, Beijing.
 
-- Warden
-- Minted coins
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2019/02-2019/06`
+__Product Assistant__, Tezign Technology Company, Shanghai
 
 
 
