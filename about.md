@@ -129,7 +129,7 @@ __"Deviant Colors"__, Solo Exhibition, fRUITYSPACE, Beijing
 __Advanced Product Manager__, Pingan Technology Company, Beijing.
 
 
-`2019/02-2019/06`
+`2019/02 - 2019/06`
 __Product Assistant__, Tezign Technology Company, Shanghai
 
 
