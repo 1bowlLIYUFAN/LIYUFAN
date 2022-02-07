@@ -104,10 +104,10 @@ __as Engineer & Cost Control Presenter:__ Formula Student China 2016 & Formula S
 ## Art Exhibition
 
 `2021/03-2021/04`
-"Digital Organisms", Group Exhibition, The 13th Shanghai Biennale Phase II: Eco Alliance. "Institutions And Colleges", Power Station of Art, Shanghai
+__"Digital Organisms"__, Group Exhibition, The 13th Shanghai Biennale Phase II: Eco Alliance. "Institutions And Colleges", Power Station of Art, Shanghai
 
 `2021/09-2021/10`
-"Deviant Colors", Solo Exhibition, fRUITYSPACE, Beijing
+__"Deviant Colors"__, Solo Exhibition, fRUITYSPACE, Beijing
 
 
 ## Awards
