@@ -98,7 +98,7 @@ __as Engineer:__ Formula Racing Team of BIT, Beijing Institute of Technology
 
 
 `2016`
-__as Engineer & Cost Control Presenter:__ Formula Student China 2016 & Formula Student Electric China 2016
+__as Engineer & Presenter:__ Formula Student China 2016 & Formula Student Electric China 2016
 
 
 ## Art Exhibition
