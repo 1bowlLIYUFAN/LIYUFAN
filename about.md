@@ -94,11 +94,11 @@ __as Paper Presenter:__ [The 3rd IEEE Workshop on Artificial Intelligence for Ar
 
 
 `2015 - 2017`
-__as Engineering:__ Formula Racing Team of BIT, Beijing Institute of Technology 
+__as Engineer:__ Formula Racing Team of BIT, Beijing Institute of Technology 
 
 
 `2016`
-__as Participant & Cost Control Presenter:__ Formula Student China 2016 & Formula Student Electric China 2016
+__as Engineer & Cost Control Presenter:__ Formula Student China 2016 & Formula Student Electric China 2016
 
 
 ## Art Exhibition
