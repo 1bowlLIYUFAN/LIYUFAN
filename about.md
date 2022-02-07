@@ -4,7 +4,7 @@ title: Resume | LIYUFAN | 李与凡
 permalink: about
 ---
 
-
+![avatar](assets/img/liyufan.jpg)
 
 
 ```
