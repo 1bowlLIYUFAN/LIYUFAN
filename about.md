@@ -4,17 +4,19 @@ title: Resume | LIYUFAN | 李与凡
 permalink: about
 ---
 
-![avatar](assets/img/liyufan.jpg)
-<img src="assets/img/liyufan.jpg" width="30%">
+<!-- ![avatar](assets/img/liyufan.jpg) -->
+<img src="assets/img/liyufan.jpg" width="30%" div align=center />
 
 ```
 full-time Product Manager
 part-time Researcher
 underground Artist
 ```
-💾 full-time Product Manager
-📖 part-time Researcher
-🎨 underground Artist
+> 💾 full-time Product Manager
+>
+> 📖 part-time Researcher
+>
+>🎨 underground Artist
 
 
 
