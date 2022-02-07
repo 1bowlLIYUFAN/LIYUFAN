@@ -52,12 +52,16 @@ __Beijing Institute of Technology, Beijing, China__
 
 
 
-## Publications
+## Research Publications
 
 ### Papers
 
 `2021`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Y. Li, J. Zhuo, L. Fan and H. Wang,  "Culture-inspired Multi-modal Color Palette Generation and Colorization: A Chinese Youth Subculture Case," in 2021 IEEE 4th International Conference on Multimedia Information Processing and Retrieval (MIPR), Tokyo, Japan, 2021 pp. 382-385. doi: 10.1109/MIPR51284.2021.00071
+url: https://doi.ieeecomputersociety.org/10.1109/MIPR51284.2021.00071
+Github & Introduction: https://github.com/tezignlab/subculture-colorization
+Demo(color generation by semantic ): https://www.subverse.site/
+Video:
 
 `2021`
 Lectiones opticæ.
@@ -65,6 +69,7 @@ Lectiones opticæ.
 `2021`
 Lectiones opticæ.
 
+### Thesis
 
 ### Patents
 
