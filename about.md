@@ -35,7 +35,7 @@ permalink: about
 __Tongji University, Shanghai, China__
  - __Master of Engineering in Design, Artificial Intelligence and Data Design__
    - GPA: 86.74/100
-   - Supervisor: Fan Ling, co-Supervisor: Harry Jiannan Wang
+   - Supervisor: __Ling Fan__, co-Supervisor: __Harry Jiannan Wang__
    - Thesis Title: Research of Culture-inspired Intelligent Color Design System: A Chinese Youth Subculture Case
 
 ---
