@@ -119,9 +119,8 @@ __"Deviant Colors"__, Solo Exhibition, fRUITYSPACE, Beijing
 
 `2015` Undergraduate Engineering Design Expression Contest of Beijing, Individual First Prize.
 
+`2014-2018` Awarded Several First-class Scholarship of BIT
 
-
-Associate, *French Academy of Science*, Paris, France
 
 
 ## Occupation
