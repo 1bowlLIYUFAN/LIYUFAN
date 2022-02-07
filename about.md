@@ -5,7 +5,7 @@ permalink: about
 ---
 
 <!-- ![avatar](assets/img/liyufan.jpg) -->
-<div align=center><img src="assets/img/liyufan.jpg" width="39%"></div>
+<div align=center><img src="assets/img/photo.jpg" width="39%"></div>
 
 <!-- 
 ```
