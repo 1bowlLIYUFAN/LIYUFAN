@@ -85,8 +85,7 @@ __as Academic Contributor:__ 范凌. 从无限运算力到无限想象力: 设�
 
 ## Research Experience
 `2018 - now`
-__as Researcher:__ [Design A.I. Lab](https://www.sheji.ai/), Design and Innovation College, Tongji University, 
-
+__as Researcher:__ [Design A.I. Lab](https://www.sheji.ai/), Design and Innovation College, Tongji University
 
 `2021`
 __as Paper Presenter:__ [The 3rd IEEE Workshop on Artificial Intelligence for Art Creation](https://aiart2021.github.io/), Jointly with MIPR 2021
