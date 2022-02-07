@@ -108,6 +108,9 @@ __"Digital Organisms"__, Group Exhibition, The 13th Shanghai Biennale Phase II: 
 `2021/09-2021/10`
 __"Deviant Colors"__, Solo Exhibition, fRUITYSPACE, Beijing
 
+`2022/01-2022/02`
+__"Worries Overloaded"__, Group Exhibition, "On-Off" residence Exhibition, fRUITYSPACE, Beijing
+
 
 ## Awards
 
