@@ -5,7 +5,7 @@ permalink: about
 ---
 
 ![avatar](assets/img/liyufan.jpg)
-
+<img src="assets/img/liyufan.jpg" width="30%">
 
 ```
 full-time Product Manager
