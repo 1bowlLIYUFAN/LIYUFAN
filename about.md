@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resume | LIYUFAN | 李与凡
+title: Resume | 李与凡 | LIYUFAN
 permalink: about
 ---
 
