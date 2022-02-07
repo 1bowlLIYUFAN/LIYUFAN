@@ -16,7 +16,7 @@ underground Artist
 >
 > 📖 part-time Researcher
 >
->🎨 underground Artist
+> 🎨 underground Artist
 
 
 
