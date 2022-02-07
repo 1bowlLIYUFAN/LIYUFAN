@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 李与凡 | LIYUFAN
+title: 李与凡  -  LIYUFAN
 permalink: about
 ---
 
