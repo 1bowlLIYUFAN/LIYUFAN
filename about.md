@@ -65,22 +65,22 @@ __Links:__ [Paper](https://doi.org/10.21428/92fbeb44.2fb614f7)｜[Code](https://
 
 
 `2021`
-__Master Dgree Thesis__   受文化启发的智能色彩设计系统与原型开发————以中国青年亚文化为例 J063/LC213，in 2021， 同济大学图书馆藏
+__Master Dgree Thesis__   受文化启发的智能色彩设计系统与原型开发————以中国青年亚文化为例（Research of Culture-inspired Intelligent Color Design System: A Chinese Youth Subculture Case） J063/LC213，in 2021， 同济大学图书馆藏(Record in the Library of  Tongji University)
 
 <!-- --- -->
-### Patents
+### Patents of Invention
 
 `2021`
-一种基于多模态内容编码的图像着色方法，公开(公告)号：CN113888660A，状态：审中-实审, 发明人：范凌，王建楠，__李与凡__，卓京港，申请人：同济大学
+An image coloring method based on multimodal content encoding(一种基于多模态内容编码的图像着色方法)，Published Code：CN113888660A，Statement：in Pratical Review(审中-实审), inventor: Fan Ling & Wang Harry & __Li Yufan__ & Zhuo Jinggang, Tongji University
 
 
 `2021`
-一种基于音乐语义的音乐色彩可视化方法，公开(公告)号：CN113920971A，状态：审中-实审, 发明人：范凌，王建楠，__李与凡__，卓京港，申请人：同济大学
+A method of visualizing musical colors based on musical semantics(一种基于音乐语义的音乐色彩可视化方法)，Published Code：CN113920971A，Statement：in Pratical Review(审中-实审), inventor: Fan Ling & Wang Harry & __Li Yufan__ & Zhuo Jinggang, Tongji University
 
 <!-- --- -->
 ### Book
 `2019`
-__as Academic Contributor:__ 范凌. 从无限运算力到无限想象力: 设计人工智能概览[M/OL]. 同济大学出版社, 2019.
+__as Academic Contributor:__ Fan Ling. From Infinite Computing Power to Infinite Imagination: An Overview of Design Artificial Intelligence (从无限运算力到无限想象力: 设计人工智能概览) [M/OL]. Tongji University Press, 2019.
 
 
 ## Research Experience
@@ -113,15 +113,15 @@ __"Worries Overloaded"__, Group Exhibition, "On-Off" residence Exhibition, fRUIT
 
 ## Awards
 
-`2016` 年度工信创新创业奖学金, Awarded as a team member
+`2016` `National` Grand Prize of Industrial Information Innovation Scholarship 2016(年度工信创新创业特等奖学金), Awarded as a team member
 
-`2016` Formula Student China, Group First prize
+`2016` `National` Group First prize of Formula Student China
 
-`2015` Advanced Modeling and Product Design Contest of China, Individual First Prize & Group First prize
+`2015` `National` Advanced Modeling and Product Design Contest of China, Individual First Prize & Group First prize
 
-`2015` Undergraduate Engineering Design Expression Contest of Beijing, Individual First Prize
+`2015` `Province-wide` Undergraduate Engineering Design Expression Contest of Beijing, Individual First Prize
 
-`2014 - 2018` Awarded Several First-class Scholarships of BIT
+`2014 - 2018` `Inter-school` Awarded Several First-class Scholarships of BIT
 
 
 
