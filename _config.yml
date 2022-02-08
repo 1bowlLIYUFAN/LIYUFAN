@@ -40,7 +40,8 @@ footer-msg: "Powered by Tailpages"
 footer-msg-link: https://github.com/1bowlLIYUFAN/LIYUFAN
 
 # google analytics
-google-analytics: G-WCRC1TC2V5
+# google-analytics: G-WCRC1TC2V5
+google-analytics: G-KC74ZWTN1V
 
 # jekyll plugins - no need to change
 plugins:
