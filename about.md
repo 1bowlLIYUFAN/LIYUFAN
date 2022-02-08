@@ -128,7 +128,7 @@ __"Worries Overloaded"__, Group Exhibition, "On-Off" residence Exhibition, fRUIT
 ## Occupation
 
 `2021/08 - now`
-Advanced Product Manager, Pingan Technology Company, Beijing.
+Senior Product Manager, Pingan Technology Company, Beijing.
 
 
 `2019/02 - 2019/06`
