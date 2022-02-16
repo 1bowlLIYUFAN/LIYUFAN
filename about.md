@@ -65,7 +65,7 @@ __Links:__ [Paper](https://doi.org/10.21428/92fbeb44.2fb614f7)｜[Code](https://
 
 
 `2021`
-__Master Dgree Thesis__   受文化启发的智能色彩设计系统与原型开发————以中国青年亚文化为例（Research of Culture-inspired Intelligent Color Design System: A Chinese Youth Subculture Case） J063/LC213，in 2021， 同济大学图书馆藏(Record in the Library of  Tongji University)
+__Master Degree Thesis__   受文化启发的智能色彩设计系统与原型开发————以中国青年亚文化为例（Research of Culture-inspired Intelligent Color Design System: A Chinese Youth Subculture Case） J063/LC213，in 2021， 同济大学图书馆藏(Record in the Library of  Tongji University)
 
 <!-- --- -->
 ### Patents of Invention
