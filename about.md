@@ -85,7 +85,7 @@ __as Academic Contributor:__ Fan Ling. From Infinite Computing Power to Infinite
 
 ## Research Experience
 `2018 - 2022`
-__as Research Assistant:__ [CMA Thrust, Infomation Hub](https://cma.hkust-gz.edu.cn/), The Hong Kong University of Science and Technology (Guangzhou)
+__as Research Assistant:__ [CMA Thrust](https://cma.hkust-gz.edu.cn/), Infomation Hub, The Hong Kong University of Science and Technology (Guangzhou)
 
 `2018 - 2022`
 __as Researcher:__ [Design A.I. Lab](https://www.sheji.ai/), Design and Innovation College, Tongji University
