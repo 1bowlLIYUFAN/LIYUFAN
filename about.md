@@ -5,7 +5,7 @@ permalink: about
 ---
 
 <!-- ![avatar](assets/img/LYF.jpg) -->
-<div align=center><img src="assets/img/IMG1.jpg" width="39%"></div>
+<div align=center><img src="assets/img/LYF.jpg" width="39%"></div>
 
 <!-- 
 ```
