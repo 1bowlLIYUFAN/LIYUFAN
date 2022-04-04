@@ -9,8 +9,7 @@ permalink: about
 
 <!-- 
 ```
- full-time Product Manager
- part-time Researcher
+ full-time Researcher
  underground Artist
 ``` -->
 
