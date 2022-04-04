@@ -26,27 +26,6 @@ permalink: about
 | __HKUST__ | __Beijing, China__ | __Phone:__ (+86)18811365529 |
 
 
-## Education
-
-`2018/09 - 2021/06`
-__Tongji University, Shanghai, China__
- - __Master of Engineering in Design, Artificial Intelligence and Data Design__
-   - __GPA:__ 86.74/100
-   - __Supervisor:__ Ling Fan, __co-Supervisor:__ Harry Jiannan Wang
-
-<!-- --- -->
-`2019/09 - 2020/07`
-__Politecnico di Torino, Turin, Italy__
- -  __Systemic Design, Exchange Program__
-
-<!-- --- -->
-`2014/09 - 2018/06`
-__Beijing Institute of Technology, Beijing, China__
- - __Bachelor of Engineering, Vehicle Engineering__
-   - __GPA:__ 89.09/100 (top 10%)
-
-
-
 
 ## Research Publications
 
@@ -122,6 +101,26 @@ __"Worries Overloaded"__, Group Exhibition, "On-Off" residence Exhibition, fRUIT
 `2015` `Province-wide` Undergraduate Engineering Design Expression Contest of Beijing, Individual First Prize
 
 `2014 - 2018` `Inter-school` Awarded Several First-class Scholarships of BIT
+
+
+## Education
+
+`2018/09 - 2021/06`
+__Tongji University, Shanghai, China__
+ - __Master of Engineering in Design, Artificial Intelligence and Data Design__
+   - __GPA:__ 86.74/100
+   - __Supervisor:__ Ling Fan, __co-Supervisor:__ Harry Jiannan Wang
+
+<!-- --- -->
+`2019/09 - 2020/07`
+__Politecnico di Torino, Turin, Italy__
+ -  __Systemic Design, Exchange Program__
+
+<!-- --- -->
+`2014/09 - 2018/06`
+__Beijing Institute of Technology, Beijing, China__
+ - __Bachelor of Engineering, Vehicle Engineering__
+   - __GPA:__ 89.09/100 (top 10%)
 
 
 
