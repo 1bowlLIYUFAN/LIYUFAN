@@ -4,7 +4,7 @@ title: 李与凡  -  LIYUFAN
 permalink: about
 ---
 
-<!-- ![avatar](assets/img/liyufan.jpg) -->
+<!-- ![avatar](assets/img/LYF.jpg) -->
 <div align=center><img src="assets/img/IMG1.jpg" width="39%"></div>
 
 <!-- 
