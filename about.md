@@ -78,7 +78,7 @@ __as Engineer:__ Formula Racing Team of BIT, Beijing Institute of Technology
 __as Engineer & Presenter:__ Formula Student China 2016 & Formula Student Electric China 2016
 
 
-## Art Exhibition
+## Art Exhibitions
 
 `2021/03-2021/04`
 __"Digital Organisms"__, Group Exhibition, The 13th Shanghai Biennale Phase II: Eco Alliance. "Institutions And Colleges", Power Station of Art, Shanghai
