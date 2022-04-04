@@ -22,7 +22,7 @@ permalink: about
 
 
 
-| __Master of Engineering in Design, AI & Data Design__ | __Tongji University__ |
+| __Computational Media Art__ | __HKUST__ |
 | __Female__ | __Beijing, China__ | 
 | __E-mail:__ yufanli@ust.hk | __Phone:__ (+86)18811365529 |
 
