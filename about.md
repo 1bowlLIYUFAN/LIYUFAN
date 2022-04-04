@@ -22,8 +22,8 @@ permalink: about
 
 
 
-| __Computational Media Art__ | __HKUST__ | __Beijing, China__ | 
-| __Female__ | __E-mail:__ yufanli@ust.hk | __Phone:__ (+86)18811365529 |
+| __Computational Media Art__ | __Female__ | __E-mail:__ yufanli@ust.hk | 
+| __HKUST__ | __Beijing, China__ | __Phone:__ (+86)18811365529 |
 
 
 ## Education
