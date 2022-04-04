@@ -22,7 +22,7 @@ permalink: about
 
 
 
-| __Computational Media Art__ | __HKUST__ |
+|<center> __Computational Media Art__ </center>| __HKUST__ |
 | __Female__ | __Beijing, China__ | 
 | __E-mail:__ yufanli@ust.hk | __Phone:__ (+86)18811365529 |
 
