@@ -127,8 +127,10 @@ __"Worries Overloaded"__, Group Exhibition, "On-Off" residence Exhibition, fRUIT
 
 
 ## Occupation
+`2022/03 - now`
+Research Assistant, CMA Thrust, Information Hub,the Hong Kong University of Science and Technology, Guangzhou.
 
-`2021/08 - now`
+`2021/08 - 2022/03`
 Senior Product Manager, Pingan Technology Company, Beijing.
 
 
