@@ -13,9 +13,8 @@ permalink: about
  underground Artist
 ``` -->
 
-<center> 💾 __full-time Product Manager__ 💾 </center>
 
-<center> 📖   __part-time Researcher__    📖 </center>
+<center> 📖   __full-time Researcher__    📖 </center>
 
 <center> 🎨    __underground Artist__     🎨 </center>
 
