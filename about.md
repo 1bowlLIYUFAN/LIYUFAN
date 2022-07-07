@@ -62,14 +62,18 @@ __as Academic Contributor:__ Fan Ling. From Infinite Computing Power to Infinite
 
 ## Art Exhibitions
 
-`2021/03-2021/04`
-__"Digital Organisms"__, Group Exhibition, The 13th Shanghai Biennale Phase II: Eco Alliance. "Institutions And Colleges", Power Station of Art, Shanghai
+`2022/03-2022/04`
+__"Worries Overloaded"__, BadWater, PLATESPACE, Beijing
 
 `2021/09-2021/10`
 __"Deviant Colors"__, Solo Exhibition, fRUITYSPACE, Beijing
 
-`2022/03-2022/04`
-__"Worries Overloaded"__, BadWater, PLATESPACE, Beijing
+`2021/03-2021/04`
+__"Digital Organisms"__, Group Exhibition, The 13th Shanghai Biennale Phase II: Eco Alliance. "Institutions And Colleges", Power Station of Art, Shanghai
+
+
+
+
 
 
 ## Awards
