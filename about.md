@@ -59,24 +59,6 @@ A method of visualizing musical colors based on musical semantics(一种基于�
 __as Academic Contributor:__ Fan Ling. From Infinite Computing Power to Infinite Imagination: An Overview of Design Artificial Intelligence (从无限运算力到无限想象力: 设计人工智能概览) [M/OL]. Tongji University Press, 2019.
 
 
-## Research Experience
-`2018 - 2022`
-__as Research Assistant:__ [CMA Thrust](https://cma.hkust-gz.edu.cn/), Infomation Hub, The Hong Kong University of Science and Technology (Guangzhou)
-
-`2018 - 2022`
-__as Researcher:__ [Design A.I. Lab](https://www.sheji.ai/), Design and Innovation College, Tongji University
-
-`2021`
-__as Paper Presenter:__ [The 3rd IEEE Workshop on Artificial Intelligence for Art Creation](https://aiart2021.github.io/), Jointly with MIPR 2021
-
-
-`2015 - 2017`
-__as Engineer:__ Formula Racing Team of BIT, Beijing Institute of Technology 
-
-
-`2016`
-__as Engineer & Presenter:__ Formula Student China 2016 & Formula Student Electric China 2016
-
 
 ## Art Exhibitions
 
@@ -86,8 +68,8 @@ __"Digital Organisms"__, Group Exhibition, The 13th Shanghai Biennale Phase II: 
 `2021/09-2021/10`
 __"Deviant Colors"__, Solo Exhibition, fRUITYSPACE, Beijing
 
-`2022/01-2022/02`
-__"Worries Overloaded"__, Group Exhibition, "On-Off" residence Exhibition, fRUITYSPACE, Beijing
+`2022/03-2022/04`
+__"Worries Overloaded"__, BadWater, PLATESPACE, Beijing
 
 
 ## Awards
@@ -121,6 +103,25 @@ __Politecnico di Torino, Turin, Italy__
 __Beijing Institute of Technology, Beijing, China__
  - __Bachelor of Engineering, Vehicle Engineering__
    - __GPA:__ 89.09/100 (top 10%)
+
+
+## Research Experience
+`2018 - 2022`
+__as Research Assistant:__ [CMA Thrust](https://cma.hkust-gz.edu.cn/), Infomation Hub, The Hong Kong University of Science and Technology (Guangzhou)
+
+`2018 - 2022`
+__as Researcher:__ [Design A.I. Lab](https://www.sheji.ai/), Design and Innovation College, Tongji University
+
+`2021`
+__as Paper Presenter:__ [The 3rd IEEE Workshop on Artificial Intelligence for Art Creation](https://aiart2021.github.io/), Jointly with MIPR 2021
+
+
+`2015 - 2017`
+__as Engineer:__ Formula Racing Team of BIT, Beijing Institute of Technology 
+
+
+`2016`
+__as Engineer & Presenter:__ Formula Student China 2016 & Formula Student Electric China 2016
 
 
 
