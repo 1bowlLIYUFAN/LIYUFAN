@@ -130,13 +130,16 @@ __Beijing Institute of Technology, Beijing, China__
 
 ## Occupation
 `2022/03 - now`
-Research Assistant, CMA Thrust, Information Hub,the Hong Kong University of Science and Technology, Guangzhou.
+__Research Assistant__
+ - CMA Thrust, Information Hub,the Hong Kong University of Science and Technology, Guangzhou.
 
 `2021/08 - 2022/03`
-Senior Product Manager, Pingan Technology Company, Beijing.
+__Senior Product Manager__
+ - Pingan Technology Company, Beijing.
 
 `2019/02 - 2019/06`
-Product Assistant, Tezign Technology Company, Shanghai
+__Product Assistant (Intern)__ 
+ - Tezign Technology Company, Shanghai
 
 
 
