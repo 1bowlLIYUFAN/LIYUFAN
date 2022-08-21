@@ -110,8 +110,8 @@ __as Reviewer:__ Reviewer for Leonardo journal; Subreviewer for VINCI'22 and ICT
 `2018/09 - 2021/06`
 __Tongji University, Shanghai, China__
  - __Master of Engineering in Design, Artificial Intelligence and Data Design__
-   <!-- ``` - __GPA:__ 86.74/100 
-   - __Supervisor:__ Ling Fan, __co-Supervisor:__ Harry Jiannan Wang ``` -->
+   <!-- ``` - __GPA:__ 86.74/100 ``` -->
+  <!-- ``` - __Supervisor:__ Ling Fan, __co-Supervisor:__ Harry Jiannan Wang ``` -->
 
 
 `2019/09 - 2020/07`
