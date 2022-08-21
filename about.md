@@ -39,7 +39,7 @@ __Links:__ [Paper](https://doi.ieeecomputersociety.org/10.1109/MIPR51284.2021.00
 
 
 `2021`
-__Li, Yufan__ & Zhuo, Jinggang & Fan, Ling & Wang, Zhe & Wang, Harry. "Semantically Enriched Music Visualization via Multimodal Color Generation," in NIME 2021. 
+__Li, Yufan__ & Zhuo, Jinggang & Fan, Ling & Wang, Zhe & Wang, Harry. "Semantically Enriched Music Visualization via Multimodal Color Generation," in NIME 2021 Showcase. 
 __Links:__ [Paper](https://doi.org/10.21428/92fbeb44.2fb614f7)｜[Code](https://github.com/tezignlab/subculture-colorization/tree/main/music-visualization)｜[Video](https://www.bilibili.com/video/BV1Cp4y1H7To/) 
 
 
@@ -87,7 +87,7 @@ __as Researcher:__ [Design A.I. Lab](https://www.sheji.ai/), Design and Innovati
 `2015 - 2017`
 __as Engineer:__ Formula Racing Team of BIT, Beijing Institute of Technology 
 
-__as Engineer:__ Reviewer for Leonardo journal; Subreviewer for VINCI'22 and ICTAI'22 conference.
+__as Reviewer:__ Reviewer for Leonardo journal; Subreviewer for VINCI'22 and ICTAI'22 conference.
 
 
 
@@ -110,15 +110,15 @@ __as Engineer:__ Reviewer for Leonardo journal; Subreviewer for VINCI'22 and ICT
 `2018/09 - 2021/06`
 __Tongji University, Shanghai, China__
  - __Master of Engineering in Design, Artificial Intelligence and Data Design__
-   <!-- ``` - __GPA:__ 86.74/100 ``` -->
-   - __Supervisor:__ Ling Fan, __co-Supervisor:__ Harry Jiannan Wang
+   <!-- ``` - __GPA:__ 86.74/100 
+   - __Supervisor:__ Ling Fan, __co-Supervisor:__ Harry Jiannan Wang ``` -->
 
-<!-- --- -->
+
 `2019/09 - 2020/07`
 __Politecnico di Torino, Turin, Italy__
  -  __Systemic Design, Exchange Program__
 
-<!-- --- -->
+
 `2014/09 - 2018/06`
 __Beijing Institute of Technology, Beijing, China__
  - __Bachelor of Engineering, Vehicle Engineering__
