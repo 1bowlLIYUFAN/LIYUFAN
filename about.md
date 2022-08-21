@@ -30,6 +30,9 @@ permalink: about
 ## Research Publications
 
 ### Papers
+`2022`
+Fan, Zhenbao & Zhu, Yixuan & Yan, Christine & __Li, Yufan__ & Zhang, Kang.  "A Comparative Study of Color Between Abstract Paintings, Oil Paintings and Chinese Ink Paintings," in The 15th International Symposium on Visual Information Communication and Interaction (VINCI), Chur, Switzerland, 2022
+
 `2021`
 __Li, Yufan__ & Zhuo, Jinggang & Fan, Ling & Wang, Harry.  "Culture-inspired Multi-modal Color Palette Generation and Colorization: A Chinese Youth Subculture Case," in 2021 IEEE 4th International Conference on Multimedia Information Processing and Retrieval (MIPR), Tokyo, Japan, 2021 pp. 382-385. doi: 10.1109/MIPR51284.2021.00071
 __Links:__ [Paper](https://doi.ieeecomputersociety.org/10.1109/MIPR51284.2021.00071)｜[Code & Introduction](https://github.com/tezignlab/subculture-colorization) ｜ [Video](https://youtu.be/fLPwr-oX0ds)｜[Demo](https://www.subverse.site/)
@@ -44,6 +47,11 @@ __Links:__ [Paper](https://doi.org/10.21428/92fbeb44.2fb614f7)｜[Code](https://
 __Master Degree Thesis__   受文化启发的智能色彩设计系统与原型开发————以中国青年亚文化为例（Research of Culture-inspired Intelligent Color Design System: A Chinese Youth Subculture Case） J063/LC213，in 2021， 同济大学图书馆藏(Record in the Library of  Tongji University)
 
 <!-- --- -->
+### Book
+`2019`
+__as Academic Contributor:__ Fan Ling. From Infinite Computing Power to Infinite Imagination: An Overview of Design Artificial Intelligence (从无限运算力到无限想象力: 设计人工智能概览) [M/OL]. Tongji University Press, 2019.
+
+<!-- --- -->
 ### Patents of Invention
 
 `2021`
@@ -52,11 +60,6 @@ An image coloring method based on multimodal content encoding(一种基于多模
 
 `2021`
 A method of visualizing musical colors based on musical semantics(一种基于音乐语义的音乐色彩可视化方法)，Published Code：CN113920971A，Statement：in Pratical Review(审中-实审), inventor: Fan Ling & Wang Harry & __Li Yufan__ & Zhuo Jinggang, Tongji University
-
-<!-- --- -->
-### Book
-`2019`
-__as Academic Contributor:__ Fan Ling. From Infinite Computing Power to Infinite Imagination: An Overview of Design Artificial Intelligence (从无限运算力到无限想象力: 设计人工智能概览) [M/OL]. Tongji University Press, 2019.
 
 
 
@@ -74,6 +77,18 @@ __"Digital Organisms"__, Group Exhibition, The 13th Shanghai Biennale Phase II: 
 
 
 
+## Research Experience
+`2018 - 2022`
+__as Research Assistant:__ [CMA Thrust](https://cma.hkust-gz.edu.cn/), Infomation Hub, The Hong Kong University of Science and Technology (Guangzhou)
+
+`2018 - 2022`
+__as Researcher:__ [Design A.I. Lab](https://www.sheji.ai/), Design and Innovation College, Tongji University
+
+`2015 - 2017`
+__as Engineer:__ Formula Racing Team of BIT, Beijing Institute of Technology 
+
+__as Engineer:__ Reviewer for Leonardo journal; Subreviewer for VINCI'22 and ICTAI'22 conference.
+
 
 
 ## Awards
@@ -89,12 +104,13 @@ __"Digital Organisms"__, Group Exhibition, The 13th Shanghai Biennale Phase II: 
 `2014 - 2018` `Inter-school` Awarded Several First-class Scholarships of BIT
 
 
+
 ## Education
 
 `2018/09 - 2021/06`
 __Tongji University, Shanghai, China__
  - __Master of Engineering in Design, Artificial Intelligence and Data Design__
-   - __GPA:__ 86.74/100
+   <!-- ``` - __GPA:__ 86.74/100 ``` -->
    - __Supervisor:__ Ling Fan, __co-Supervisor:__ Harry Jiannan Wang
 
 <!-- --- -->
@@ -106,27 +122,10 @@ __Politecnico di Torino, Turin, Italy__
 `2014/09 - 2018/06`
 __Beijing Institute of Technology, Beijing, China__
  - __Bachelor of Engineering, Vehicle Engineering__
-   - __GPA:__ 89.09/100 (top 10%)
 
-
-## Research Experience
-`2018 - 2022`
-__as Research Assistant:__ [CMA Thrust](https://cma.hkust-gz.edu.cn/), Infomation Hub, The Hong Kong University of Science and Technology (Guangzhou)
-
-`2018 - 2022`
-__as Researcher:__ [Design A.I. Lab](https://www.sheji.ai/), Design and Innovation College, Tongji University
-
-`2021`
-__as Paper Presenter:__ [The 3rd IEEE Workshop on Artificial Intelligence for Art Creation](https://aiart2021.github.io/), Jointly with MIPR 2021
-
-
-`2015 - 2017`
-__as Engineer:__ Formula Racing Team of BIT, Beijing Institute of Technology 
-
-
-`2016`
-__as Engineer & Presenter:__ Formula Student China 2016 & Formula Student Electric China 2016
-
+<!-- ```
+- __GPA:__ 89.09/100 (top 10%)
+``` -->
 
 
 ## Occupation
@@ -136,7 +135,6 @@ Research Assistant, CMA Thrust, Information Hub,the Hong Kong University of Scie
 `2021/08 - 2022/03`
 Senior Product Manager, Pingan Technology Company, Beijing.
 
-
 `2019/02 - 2019/06`
 Product Assistant, Tezign Technology Company, Shanghai
 
@@ -145,6 +143,6 @@ Product Assistant, Tezign Technology Company, Shanghai
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: August 2022 -->
 
 
