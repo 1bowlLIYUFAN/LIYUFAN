@@ -32,7 +32,7 @@ permalink: about
 `2018/09 - 2021/06`
 __Tongji University, Shanghai, China__
  - Master of Engineering in Design, Artificial Intelligence and Data Design
- - __GPA:__ 86.74/100 
+ - GPA: 86.74/100 
   <!-- ``` - __Supervisor:__ Ling Fan, __co-Supervisor:__ Harry Jiannan Wang ``` -->
 
 
@@ -44,7 +44,7 @@ __Politecnico di Torino, Turin, Italy__
 `2014/09 - 2018/06`
 __Beijing Institute of Technology, Beijing, China__
  - Bachelor of Engineering, Vehicle Engineering
-- __GPA:__ 3.93/4 (top 10%)
+- GPA: 3.93/4 (top 10%)
 
 
 
