@@ -1,9 +1,3 @@
----
-layout: page
-title: 李与凡  -  LIYUFAN
-permalink: about
----
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-FJ7P05HHM0"></script>
 <script>
@@ -13,6 +7,12 @@ permalink: about
 
   gtag('config', 'G-FJ7P05HHM0');
 </script>
+
+---
+layout: page
+title: 李与凡  -  LIYUFAN
+permalink: about
+---
 
 
 <!-- ![avatar](assets/img/LYF.jpg) -->
