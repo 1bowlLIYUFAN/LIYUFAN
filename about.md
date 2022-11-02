@@ -52,7 +52,7 @@ __Beijing Institute of Technology, Beijing, China__
 
 ### Papers
 `2022`
-Fan, Zhenbao & Zhu, Yixuan & Yan, Christine & __Li, Yufan__ & Zhang, Kang.  "A Comparative Study of Color Between Abstract Paintings, Oil Paintings and Chinese Ink Paintings," In 15th International Symposium on Visual Information Communication and Interaction (VINCI'22). Association for Computing Machinery, New York, NY, USA, Article 4, 1–8. doi: 10.1145/3554944.3554951
+Fan, Zhenbao & Zhu, Yixuan & Yan, Christine & __Li, Yufan__ & Zhang, Kang.  "A Comparative Study of Color Between Abstract Paintings, Oil Paintings and Chinese Ink Paintings," in 15th International Symposium on Visual Information Communication and Interaction (VINCI'22). Association for Computing Machinery, New York, NY, USA, Article 4, 1–8. doi: 10.1145/3554944.3554951
 __Links:__ [Paper](https://doi.org/10.1145/3554944.3554951)
 
 `2021`
