@@ -52,36 +52,36 @@ __Beijing Institute of Technology, Beijing, China__
 
 ### Papers
 `2022`
-Fan, Zhenbao & Zhu, Yixuan & Yan, Christine & __Li, Yufan__ & Zhang, Kang.  "A Comparative Study of Color Between Abstract Paintings, Oil Paintings and Chinese Ink Paintings," in 15th International Symposium on Visual Information Communication and Interaction (VINCI'22). Association for Computing Machinery, New York, NY, USA, Article 4, 1–8. doi: 10.1145/3554944.3554951
+Fan, Zhenbao & Zhu, Yixuan & Yan, Christine & __Li, Yufan__ & Zhang, Kang.  __"A Comparative Study of Color Between Abstract Paintings, Oil Paintings and Chinese Ink Paintings,"__ in 15th International Symposium on Visual Information Communication and Interaction (VINCI'22). Association for Computing Machinery, New York, NY, USA, Article 4, 1–8. doi: 10.1145/3554944.3554951
 __Links:__ [Paper](https://doi.org/10.1145/3554944.3554951)
 
 `2021`
-__Li, Yufan__ & Zhuo, Jinggang & Fan, Ling & Wang, Harry.  "Culture-inspired Multi-modal Color Palette Generation and Colorization: A Chinese Youth Subculture Case," in 2021 IEEE 4th International Conference on Multimedia Information Processing and Retrieval (MIPR), Tokyo, Japan, 2021 pp. 382-385. doi: 10.1109/MIPR51284.2021.00071
+__Li, Yufan__ & Zhuo, Jinggang & Fan, Ling & Wang, Harry.  __"Culture-inspired Multi-modal Color Palette Generation and Colorization: A Chinese Youth Subculture Case,"__ in 2021 IEEE 4th International Conference on Multimedia Information Processing and Retrieval (MIPR), Tokyo, Japan, 2021 pp. 382-385. doi: 10.1109/MIPR51284.2021.00071
 __Links:__ [Paper](https://doi.ieeecomputersociety.org/10.1109/MIPR51284.2021.00071)｜[Code & Introduction](https://github.com/tezignlab/subculture-colorization) ｜ [Video](https://youtu.be/fLPwr-oX0ds)｜[Demo](https://www.subverse.site/)
 
 
 `2021`
-__Li, Yufan__ & Zhuo, Jinggang & Fan, Ling & Wang, Zhe & Wang, Harry. "Semantically Enriched Music Visualization via Multimodal Color Generation," in NIME 2021 Showcase. 
+__Li, Yufan__ & Zhuo, Jinggang & Fan, Ling & Wang, Zhe & Wang, Harry. __"Semantically Enriched Music Visualization via Multimodal Color Generation,"__ in NIME 2021 Showcase. 
 __Links:__ [Paper](https://doi.org/10.21428/92fbeb44.2fb614f7)｜[Code](https://github.com/tezignlab/subculture-colorization/tree/main/music-visualization)｜[Video](https://www.bilibili.com/video/BV1Cp4y1H7To/) 
 
 
 `2021`
-__Master Degree Thesis__   受文化启发的智能色彩设计系统与原型开发————以中国青年亚文化为例（Research of Culture-inspired Intelligent Color Design System: A Chinese Youth Subculture Case） J063/LC213，in 2021， 同济大学图书馆藏(Record in the Library of  Tongji University)
+__Master Degree Thesis__   __受文化启发的智能色彩设计系统与原型开发————以中国青年亚文化为例__（Research of Culture-inspired Intelligent Color Design System: A Chinese Youth Subculture Case）__ J063/LC213，in 2021， 同济大学图书馆藏(Record in the Library of  Tongji University)
 
 <!-- --- -->
 ### Book
 `2019`
-__as Academic Contributor:__ Fan Ling. From Infinite Computing Power to Infinite Imagination: An Overview of Design Artificial Intelligence (从无限运算力到无限想象力: 设计人工智能概览) [M/OL]. Tongji University Press, 2019.
+__as Academic Contributor:__ Fan Ling. __From Infinite Computing Power to Infinite Imagination: An Overview of Design Artificial Intelligence__ [M/OL]. Tongji University Press, 2019.
 
 <!-- --- -->
 ### Patents of Invention
 
 `2021`
-An image coloring method based on multimodal content encoding(一种基于多模态内容编码的图像着色方法)，Published Code：CN113888660A，Statement：in Pratical Review(审中-实审), inventor: Fan Ling & Wang Harry & __Li Yufan__ & Zhuo Jinggang, Tongji University
+__An image coloring method based on multimodal content encoding__(一种基于多模态内容编码的图像着色方法)，Published Code：CN113888660A，Statement：in Pratical Review(审中-实审), inventor: Fan Ling & Wang Harry & __Li Yufan__ & Zhuo Jinggang, Tongji University
 
 
 `2021`
-A method of visualizing musical colors based on musical semantics(一种基于音乐语义的音乐色彩可视化方法)，Published Code：CN113920971A，Statement：in Pratical Review(审中-实审), inventor: Fan Ling & Wang Harry & __Li Yufan__ & Zhuo Jinggang, Tongji University
+__A method of visualizing musical colors based on musical semantics__(一种基于音乐语义的音乐色彩可视化方法)，Published Code：CN113920971A，Statement：in Pratical Review(审中-实审), inventor: Fan Ling & Wang Harry & __Li Yufan__ & Zhuo Jinggang, Tongji University
 
 
 
@@ -148,6 +148,6 @@ __Product Assistant (Intern)__
 
 <!-- ### Footer
 
-Last updated: August 2022 -->
+Last updated: November 2022 -->
 
 
