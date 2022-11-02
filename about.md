@@ -4,6 +4,17 @@ title: 李与凡  -  LIYUFAN
 permalink: about
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FJ7P05HHM0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-FJ7P05HHM0');
+</script>
+
+
 <!-- ![avatar](assets/img/LYF.jpg) -->
 <div align=center><img src="assets/img/LYF.jpg" width="50%"></div>
 
