@@ -53,6 +53,7 @@ __Beijing Institute of Technology, Beijing, China__
 ### Papers
 `2022`
 Fan, Zhenbao & Zhu, Yixuan & Yan, Christine & __Li, Yufan__ & Zhang, Kang.  "A Comparative Study of Color Between Abstract Paintings, Oil Paintings and Chinese Ink Paintings," in The 15th International Symposium on Visual Information Communication and Interaction (VINCI), Chur, Switzerland, 2022
+__Links:__[Paper](https://doi.org/10.1145/3554944.3554951)
 
 `2021`
 __Li, Yufan__ & Zhuo, Jinggang & Fan, Ling & Wang, Harry.  "Culture-inspired Multi-modal Color Palette Generation and Colorization: A Chinese Youth Subculture Case," in 2021 IEEE 4th International Conference on Multimedia Information Processing and Retrieval (MIPR), Tokyo, Japan, 2021 pp. 382-385. doi: 10.1109/MIPR51284.2021.00071
