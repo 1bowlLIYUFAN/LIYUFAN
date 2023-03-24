@@ -23,9 +23,7 @@ permalink: about
 ``` -->
 
 
-<center> 📖   __full-time Researcher__    📖 </center>
-
-<center> 🎨    __underground Artist__     🎨 </center>
+<center> 📖   __PhD Student__    📖 </center>
 
 
 
