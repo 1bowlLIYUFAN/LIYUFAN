@@ -29,29 +29,8 @@ permalink: about
 
 
 
-| __Computational Media Art__ | __Female__ | __E-mail:__ yufanli@ust.hk | 
+| __Computational Media Art__ | __Female__ | __E-mail:__ yli538@connect.hkust-gz.edu.cn | 
 | __HKUST__ | __Beijing, China__ | __Phone:__ (+86)18811365529 |
-
-
-
-## Education
-
-`2018/09 - 2021/06`
-__Tongji University, Shanghai, China__
- - Master of Engineering in Design, Artificial Intelligence and Data Design
- - GPA: 86.74/100 
-  <!-- ``` - __Supervisor:__ Ling Fan, __co-Supervisor:__ Harry Jiannan Wang ``` -->
-
-
-`2019/09 - 2020/07`
-__Politecnico di Torino, Turin, Italy__
- -  Systemic Design, Exchange Program
-
-
-`2014/09 - 2018/06`
-__Beijing Institute of Technology, Beijing, China__
- - Bachelor of Engineering, Vehicle Engineering
-- GPA: 3.93/4 (top 10%)
 
 
 
@@ -92,6 +71,7 @@ __A method of visualizing musical colors based on musical semantics__(一种基�
 
 
 
+
 ## Art Exhibitions
 
 `2022/03-2022/04`
@@ -104,9 +84,27 @@ __"Deviant Colors"__, Solo Exhibition, fRUITYSPACE, Beijing
 __"Digital Organisms"__, Group Exhibition, The 13th Shanghai Biennale Phase II: Eco Alliance. "Institutions And Colleges", Power Station of Art, Shanghai
 
 
+## Education
+
+`2018/09 - 2021/06`
+__Tongji University, Shanghai, China__
+ - Master of Engineering in Design, Artificial Intelligence and Data Design
+ - GPA: 86.74/100 
+  <!-- ``` - __Supervisor:__ Ling Fan, __co-Supervisor:__ Harry Jiannan Wang ``` -->
 
 
-## Research Experience
+`2019/09 - 2020/07`
+__Politecnico di Torino, Turin, Italy__
+ -  Systemic Design, Exchange Program
+
+
+`2014/09 - 2018/06`
+__Beijing Institute of Technology, Beijing, China__
+ - Bachelor of Engineering, Vehicle Engineering
+- GPA: 3.93/4 (top 10%)
+
+
+<!--## Research Experience
 `2018 - 2022`
 __as Research Assistant:__ [CMA Thrust](https://cma.hkust-gz.edu.cn/), Infomation Hub, The Hong Kong University of Science and Technology (Guangzhou)
 
@@ -116,7 +114,7 @@ __as Researcher:__ [Design A.I. Lab](https://www.sheji.ai/), Design and Innovati
 `2015 - 2017`
 __as Engineer:__ Formula Racing Team of BIT, Beijing Institute of Technology 
 
-__as Reviewer:__ Reviewer for Leonardo journal; Subreviewer for VINCI'22 and ICTAI'22 conference.
+__as Reviewer:__ Reviewer for Leonardo journal; Subreviewer for VINCI'22 and ICTAI'22 conference. -->
 
 
 
@@ -136,9 +134,8 @@ __as Reviewer:__ Reviewer for Leonardo journal; Subreviewer for VINCI'22 and ICT
 
 
 
-
 ## Occupation
-`2022/03 - now`
+`2022/03 - 2022/12`
 __Research Assistant__
  - CMA Thrust, Information Hub,the Hong Kong University of Science and Technology, Guangzhou.
 
