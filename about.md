@@ -30,7 +30,7 @@ permalink: about
 
 
 | __Computational Media Art__ | __Female__ | __E-mail:__ yli538@connect.hkust-gz.edu.cn | 
-| __HKUST(GZ)__ | __Beijing, China__ | __Phone:__ (+86)18811365529 |
+| __HKUST(GZ)__ | __Beijing, China__ | __Something need to be writen here__ |
 
 
 
