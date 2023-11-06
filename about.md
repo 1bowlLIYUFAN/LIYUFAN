@@ -38,23 +38,23 @@ permalink: about
 
 ### Papers
 
-`2023`
+`2023` `Conference Poster`
+__Li, Yufan__ & Yue Huang; Kang Zhang; Varvara Guljajeva*. __"Bitter Data: Bitterness Taste in 100,000 Trouble Data,"__ in 15th International Symposium on Visual Information Communication and Interaction (VINCI'2023), Guangzhou, China, 22-24 September 2023, Article No.: 50, Pages 1–2.
 
-Y.F. Li; Y. Huang; K. Zhang; V. Guljajeva, Bitter Data: Bitterness Taste in 100,000 Trouble Data, Proc. 16th Symp. on Visual Information Communication and Interaction (VINCI’2023), Guangzhou, China, 22-24 September 2023, Article No.: 50, Pages 1–2.
-
+`2023` `Journal Paper`
 __Li, Yufan__ & Fan, Zhenbao & Zhu, Yixuan & Yan, Christine & Zhang, Kang*. __"Comparing color usage in abstract, oil, and Chinese ink paintings,"__ Journal of Visualization (2023). doi: 10.1007/s12650-023-00929-z
 __Links:__ [Paper](https://doi.org/10.1007/s12650-023-00929-z)
 
-`2022`
-Fan, Zhenbao & Zhu, Yixuan & Yan, Christine & __Li, Yufan__ & Zhang, Kang*.  __"A Comparative Study of Color Between Abstract Paintings, Oil Paintings and Chinese Ink Paintings,"__ in 15th International Symposium on Visual Information Communication and Interaction (VINCI'22). Association for Computing Machinery, New York, NY, USA, Article 4, 1–8. doi: 10.1145/3554944.3554951
+`2022` `Conference Full Paper`
+Fan, Zhenbao & Zhu, Yixuan & Yan, Christine & __Li, Yufan__ & Zhang, Kang*.  __"A Comparative Study of Color Between Abstract Paintings, Oil Paintings and Chinese Ink Paintings,"__ in 15th International Symposium on Visual Information Communication and Interaction (VINCI'2022). Association for Computing Machinery, New York, NY, USA, Article 4, 1–8. doi: 10.1145/3554944.3554951
 __Links:__ [Paper](https://doi.org/10.1145/3554944.3554951)
 
-`2021`
+`2021` `Conference Short Paper`
 __Li, Yufan__ & Zhuo, Jinggang & Fan, Ling* & Wang, Harry.  __"Culture-inspired Multi-modal Color Palette Generation and Colorization: A Chinese Youth Subculture Case,"__ in 2021 IEEE 4th International Conference on Multimedia Information Processing and Retrieval (MIPR), Tokyo, Japan, 2021 pp. 382-385. doi: 10.1109/MIPR51284.2021.00071
 __Links:__ [Paper](https://doi.ieeecomputersociety.org/10.1109/MIPR51284.2021.00071)｜[Code & Introduction](https://github.com/tezignlab/subculture-colorization) ｜ [Video](https://youtu.be/fLPwr-oX0ds)｜[Demo](https://www.subverse.site/)
 
 
-`2021` `Demo Paper`
+`2021` `Conference Demo Paper`
 __Li, Yufan__ & Zhuo, Jinggang & Fan, Ling* & Wang, Zhe & Wang, Harry. __"Semantically Enriched Music Visualization via Multimodal Color Generation,"__ in NIME 2021 Showcase. 
 __Links:__ [Paper](https://doi.org/10.21428/92fbeb44.2fb614f7)｜[Code](https://github.com/tezignlab/subculture-colorization/tree/main/music-visualization)｜[Video](https://www.bilibili.com/video/BV1Cp4y1H7To/) 
 
