@@ -37,6 +37,8 @@ permalink: about
 ## Research Publications
 
 ### Papers
+`2023` `Conference Pictorial`
+__Li, Yufan__ & Yue Huang; Kang Zhang; Varvara Guljajeva*. __"Bitter Data: An Exploration into Data Edibilization of Negative Emotion,"__ 2023 IEEE VIS Arts Program (VISAP’2023), Melbourne, Australia, 22-27 October 2023. Pages 1–16.
 
 `2023` `Conference Poster`
 __Li, Yufan__ & Yue Huang; Kang Zhang; Varvara Guljajeva*. __"Bitter Data: Bitterness Taste in 100,000 Trouble Data,"__ in 15th International Symposium on Visual Information Communication and Interaction (VINCI'2023), Guangzhou, China, 22-24 September 2023, Article No.: 50, Pages 1–2.
