@@ -96,6 +96,11 @@ __"Digital Organisms"__, Group Exhibition, The 13th Shanghai Biennale Phase II: 
 
 ## Education
 
+`2023/02 - now`
+__Hong Kong University of Science and Technology (Guangzhou), Guangzhou, China__
+ - PhD Student of Computational Media and Arts
+  <!-- ``` - __Supervisor:__ Kang Zhang ``` -->
+
 `2018/09 - 2021/06`
 __Tongji University, Shanghai, China__
  - Master of Engineering in Design, Artificial Intelligence and Data Design
