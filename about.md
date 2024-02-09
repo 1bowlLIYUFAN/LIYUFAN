@@ -37,6 +37,9 @@ permalink: about
 ## Research Publications
 
 ### Papers
+`2024` `Conference Full Paper`
+__Li, Yufan__ & Zhan Wang; Theo Papatheodorou*. __"Staying vigilant in the Age of AI: From content generation to content authentication,"__ 2024 International Symposium on Electronic Art (ISEA2024), Accepted.
+
 `2023` `Conference Pictorial`
 __Li, Yufan__ & Yue Huang; Kang Zhang; Varvara Guljajeva*. __"Bitter Data: An Exploration into Data Edibilization of Negative Emotion,"__ 2023 IEEE VIS Arts Program (VISAP’2023), Melbourne, Australia, 22-27 October 2023. Pages 1–16.
 
