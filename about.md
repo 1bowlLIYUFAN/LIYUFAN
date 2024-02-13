@@ -87,6 +87,9 @@ __A method of visualizing musical colors based on musical semantics__(一种基�
 
 ## Art Exhibitions
 
+`2023/12`
+__"Douban Ulink Festival"__(豆瓣友邻生活节), BadWater, Beijing Quanyechang Cultural Arts Center, Beijing
+
 `2022/03-2022/04`
 __"Worries Overloaded"__, BadWater, PLATESPACE, Beijing
 
